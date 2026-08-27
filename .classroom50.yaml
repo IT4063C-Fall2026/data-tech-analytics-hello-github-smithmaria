@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "data-tech-analytics"
+assignment: "hello-github"
+owner:
+  username: "smithmaria"
+  id: 161180387
+  accepted_at: "2026-08-27T16:35:20Z"
+source:
+  owner: "IT4063C-Fall2026"
+  owner_id: 320344006
+  repo: "hello-github"
+  branch: "main"
