@@ -24,15 +24,15 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to make local changes, stage those changes, and push those changes to the remote repo
 
 **I struggled with:** (repeat as needed)
-- .
+- Re-registering my git ssh key so I could clone the repo
 
 **I need the instructor to help me with:** (repeat as needed)
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
